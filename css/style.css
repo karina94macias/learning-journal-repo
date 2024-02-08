@@ -104,7 +104,7 @@ li {
 }
 
 .hero-section {
-    background-image: url(images/article-image-hero.png);
+    background-image: url("../images/article-image-hero.png");
     background-size: cover;
 }
 
